@@ -1,0 +1,4 @@
+# Optional engines (the app works without them, with graceful fallbacks)
+faster-whisper   # voice transcription
+pytesseract      # OCR for note images (also install the Tesseract binary)
+Pillow
