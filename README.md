@@ -19,6 +19,9 @@ An AI-powered study assistant built with **Python and Streamlit** that helps stu
 - **Data Processing:** Pandas, NumPy
 - **Visualization:** Plotly
 
+## 🚀 Live Demo
+
+**Try the application here:** [Live Link](https://multimodal-study-mood-optimizer-nhqbjgedfw8bu48bymjdou.streamlit.app/)
 
 ## Developer 
 
